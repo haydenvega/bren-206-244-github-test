@@ -17,7 +17,9 @@ blue <- 10
 
 red <- 15
 
-purple <- blue/red
+purple <- red/red
+
+purple
 
 ```
 
